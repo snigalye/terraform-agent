@@ -16,4 +16,4 @@ images:
 options:
   logging: CLOUD_LOGGING_ONLY
   pool:
-    name: 'projects/$PROJECT_ID/locations/europe-west3/workerPools/test-private-pool'
+    name: projects/$PROJECT_NUMBER/locations/europe-west3/workerPools/test-private-pool
