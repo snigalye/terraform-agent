@@ -15,5 +15,5 @@ images:
 - 'gcr.io/$PROJECT_ID/terraform-agent:$SHORT_SHA'
 options:
   logging: CLOUD_LOGGING_ONLY
-  pool:
-    name: projects/$PROJECT_NUMBER/locations/europe-west3/workerPools/test-private-pool
+#  pool:
+#    name: projects/$PROJECT_NUMBER/locations/europe-west3/workerPools/test-private-pool
